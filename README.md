@@ -23,6 +23,9 @@ Some interesting things I've done:
 <a href="https://www.curseforge.com/members/darkkronicle/projects">
   <img align="center" alt="CurseForge" height="30px" src="http://cf.way2muchnoise.eu/author/full_DarkKronicle_Downloads(4B4B4B-000000-ffffff-000000-ffffff).svg?badge_style=for_the_badge" />
 </a>
+<a href="https://github.com/DarkKronicle">
+  <img align="center" alt="Views" height="30px" src="https://komarev.com/ghpvc/?username=DarkKronicle&style=for-the-badge&color=000000" />
+</a>
 
 ---
 
